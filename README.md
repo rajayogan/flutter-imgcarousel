@@ -1,8 +1,6 @@
-# img_carousel
+# Image carousel
 
-A new Flutter project.
+A Simple Image Carousel made with Flutter.
 
-## Getting Started
+How do I code this - https://youtu.be/sC9qhNPvW1M
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
